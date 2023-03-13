@@ -1,0 +1,10 @@
+﻿  lab1_6.2_Khal.cpp
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(26,50): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(26,32): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(39,51): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(39,32): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(70,51): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(70,33): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(71,51): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\youan\source\repos\lab1_6.2_Khal\lab1_6.2_Khal\lab1_6.2_Khal.cpp(71,33): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+  lab1_6.2_Khal.vcxproj -> C:\Users\youan\source\repos\lab1_6.2_Khal\Debug\lab1_6.2_Khal.exe

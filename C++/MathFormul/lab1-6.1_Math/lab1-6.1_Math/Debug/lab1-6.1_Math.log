@@ -1,0 +1,7 @@
+﻿  lab1-6.1_Math.cpp
+C:\Users\youan\source\repos\lab1-6.1_Math\lab1-6.1_Math\lab1-6.1_Math.cpp(9,68): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\youan\source\repos\lab1-6.1_Math\lab1-6.1_Math\lab1-6.1_Math.cpp(16,34): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\youan\source\repos\lab1-6.1_Math\lab1-6.1_Math\lab1-6.1_Math.cpp(35,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\youan\source\repos\lab1-6.1_Math\lab1-6.1_Math\lab1-6.1_Math.cpp(18,11): warning C4101: a1: неиспользованная локальная переменная
+C:\Users\youan\source\repos\lab1-6.1_Math\lab1-6.1_Math\lab1-6.1_Math.cpp(18,15): warning C4101: b1: неиспользованная локальная переменная
+  lab1-6.1_Math.vcxproj -> C:\Users\youan\source\repos\lab1-6.1_Math\Debug\lab1-6.1_Math.exe

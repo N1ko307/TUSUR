@@ -1,0 +1,227 @@
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\EnvDTE.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\stdole.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Microsoft.MSXML.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.ReportCredit.resources
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.TableForm.resources
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.Main.resources
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\RdlCompile.cache
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\RdlCompile.compiled
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\BankDB.mdb
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\BankDBDataSet.Designer.cs
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\BankDBDataSet.xsc
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\BankDBDataSet.xsd
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\BankDBDataSet.xss
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\youan\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\youan\source\repos\Bank\Bank\obj\Debug\Bank.AllClients.resources
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\BankDB.mdb
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\EnvDTE.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\stdole.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\Microsoft.MSXML.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.AllClients.resources
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.ReportCredit.resources
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.TableForm.resources
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.Main.resources
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\youan\Desktop\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\BankDB.mdb
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\EnvDTE.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\stdole.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\Microsoft.MSXML.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.AllClients.resources
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.ReportCredit.resources
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.TableForm.resources
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.Main.resources
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\youan\OneDrive\Рабочий стол\Bank\Bank\obj\Debug\Bank.pdb
